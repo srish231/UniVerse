@@ -35,6 +35,7 @@ The app that lets you connect and talk to like minded people. Create your own co
 
 # Prototype
 Youtube link- https://youtu.be/_smjiDgEG3Y
+
 Figma link- https://www.figma.com/file/bKx1mQ79ElZU3OgUjgyxjv/Untitled?type=design&node-id=45-2&mode=design
 
 ![bf19f177-c150-4e39-8cb6-cd8c266fb657](https://user-images.githubusercontent.com/128261285/232056927-1d172cca-ddcd-4ea6-9e10-10a1e5e091fe.jpg)
